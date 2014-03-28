@@ -1,0 +1,13 @@
+{
+    "name" : "goblain/cli",
+    "license" : "MIT",
+    "authors" : [
+        {
+            "name" : "Radek Pieczonka",
+            "email" : "goblin@pentex.pl"
+        }
+    ],
+    "autoload" : {
+        "psr-0" : { "Cli" : "src/" }
+    }
+}
